@@ -21,4 +21,4 @@
 | F  | F  |     F    |      T       |  T |  T |     T    |
 
 3. What does DeMorgan's state and how did you prove it for the case above?
-  * ** his law states that we can flip the effect of and and/or statement if you use !(a&&b) making the **
+  * ** his law states that we can flip the effect of and and/or statement if you use !(a&&b) making the statement not a or not b.**
