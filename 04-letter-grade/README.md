@@ -14,8 +14,8 @@
 
 
 2. Discuss how you would make sure 100 is not misrepresented as an A-.
-  * **YOUR WRITING HERE**
+  * **I would make sure 100 isnt a A- by making a if statement at the begining for both 100 and 0 because they are exceptions from the normal grade standards.**
 
 
 3. Discuss how you would make sure grades that are an F are not mislabeled as F- or F+ (eg: 49 -> F+ and 52 -> F-)
-  * **YOUR WRITING HERE**
+  * **once i make the requirements for F+ in the if statment and A- in the else if the only thing left would be the regular F grades so i would use a else statement to return that.**
